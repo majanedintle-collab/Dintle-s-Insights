@@ -33,5 +33,5 @@ I am a first-year Data Science student living in South Africa. I love learning h
 
 ---
 
-## 📫 Let's Connect!
-*   📧 **Email:** Majanedintleuni18@gmail.com
+##  Let's Connect!
+*  **Email:** Majanedintleuni18@gmail.com
