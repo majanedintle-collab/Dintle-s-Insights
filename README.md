@@ -4,7 +4,7 @@ Welcome to **Dintle's Insights**! This is my personal page where I share my jour
 
 ---
 
-## 📌 About Me
+##  About Me
 I am a first-year Data Science student living in South Africa. I love learning how to use technology to solve real-world problems. 
 
 *   **My Studies:** I focus on math, coding, and understanding database systems.
@@ -13,23 +13,23 @@ I am a first-year Data Science student living in South Africa. I love learning h
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 
-### 💻 Tech & Code
+### Tech & Code
 *   **Python:** Writing simple scripts, cleaning data, and automating tasks.
 *   **SQL:** Creating databases and looking up information.
 *   **Math & Logic:** Solving logical problems and structuring systems.
 
-### 🗣️ Soft Skills
+### Soft Skills
 *   **Public Speaking:** Sharing ideas clearly with teams and sponsors.
 *   **Organizing & Planning:** Running university events and managing projects.
 
 ---
 
-## 🎯 My Interests
-*   ⚽ **Soccer:** I love watching soccer, and I am especially interested in how teams use data to track player performance.
-*   📈 **Data Visuals:** I am learning to turn messy spreadsheets into clean, easy-to-understand charts.
-*   💼 **Business:** I like learning about how successful companies operate and grow.
+## My Interests
+*    **Soccer:** I love watching soccer, and I am especially interested in how teams use data to track player performance.
+*    **Data Visuals:** I am learning to turn messy spreadsheets into clean, easy-to-understand charts.
+*    **Business:** I like learning about how successful companies operate and grow.
 
 ---
 
